@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-  <img src="assets/auto-upgrade-logo.png" alt="auto-upgrade-svc logo" width="200"/>
+  <img src="assets/auto-upgrade-svc-logo.png" alt="auto-upgrade-svc logo" width="200"/>
 </div>
 
 <br>
