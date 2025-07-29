@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"auto-upgrade/internal/updater"
+	"github.com/dasunwickr/auto-upgrade-svc/internal/updater"
 )
 
 func DetectUpdater() (updater.Updater, error) {

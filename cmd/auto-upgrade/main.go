@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"auto-upgrade/internal/distro"
-	"auto-upgrade/internal/systemd"
+	"github.com/dasunwickr/auto-upgrade-svc/internal/distro"
+	"github.com/dasunwickr/auto-upgrade-svc/internal/systemd"
 )
 
 func main() {

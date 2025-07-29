@@ -6,7 +6,7 @@ import (
 	"strings"
 	"text/template"
 
-	"auto-upgrade/internal/updater"
+	"github.com/dasunwickr/auto-upgrade-svc/internal/updater"
 )
 
 type fedoraUpdater struct{}
