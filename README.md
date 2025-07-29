@@ -4,9 +4,14 @@
 
 <br>
 
-# AUTO-UPGRADE-SVC
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <h1 style="margin: 0;">AUTO-UPGRADE-SVC</h1>
+  <img src="assets/auto-upgrade-svc-logo.png" alt="auto-upgrade-svc logo" width="100">
+</div>
 
-> *A simple, extensible system service for automatically updating and upgrading Linux packages at boot.*
+<blockquote>
+  <em>A simple, extensible system service for automatically updating and upgrading Linux packages at boot.</em>
+</blockquote>
 
 <p align="center">
   <a href="https://www.gnu.org/licenses/gpl-3.0">
@@ -16,6 +21,7 @@
   <img src="https://img.shields.io/github/languages/top/dasunwickr/auto-upgrade-svc?style=flat&color=007dff" alt="Top language">
   <img src="https://img.shields.io/github/languages/count/dasunwickr/auto-upgrade-svc?style=flat&color=007dff" alt="Language count">
 </p>
+
 
 
 ---
