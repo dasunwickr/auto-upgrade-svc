@@ -9,13 +9,14 @@
 > *A simple, extensible system service for automatically updating and upgrading Linux packages at boot.*
 
 <p align="center">
-  <a href="https://github.com/dasunwickr/auto-upgrade-svc/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/dasunwickr/auto-upgrade-svc?style=flat&logo=opensourceinitiative&logoColor=white&color=007dff" alt="license">
+  <a href="https://www.gnu.org/licenses/gpl-3.0">
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat&logo=opensourceinitiative&logoColor=white" alt="GPLv3 license">
   </a>
-  <img src="https://img.shields.io/github/last-commit/dasunwickr/auto-upgrade-svc?style=flat&logo=git&logoColor=white&color=007dff" alt="last-commit">
-  <img src="https://img.shields.io/github/languages/top/dasunwickr/auto-upgrade-svc?style=flat&color=007dff" alt="repo-top-language">
-  <img src="https://img.shields.io/github/languages/count/dasunwickr/auto-upgrade-svc?style=flat&color=007dff" alt="repo-language-count">
+  <img src="https://img.shields.io/github/last-commit/dasunwickr/auto-upgrade-svc?style=flat&logo=git&logoColor=white&color=007dff" alt="Last commit">
+  <img src="https://img.shields.io/github/languages/top/dasunwickr/auto-upgrade-svc?style=flat&color=007dff" alt="Top language">
+  <img src="https://img.shields.io/github/languages/count/dasunwickr/auto-upgrade-svc?style=flat&color=007dff" alt="Language count">
 </p>
+
 
 ---
 
